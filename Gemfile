@@ -7,5 +7,5 @@ group :development do
   gem 'sinatra'
   gem 'pusher'
   gem 'aws-s3'
-  gem 'httparty'
+  gem 'httparty', '>= 0.24.0'
 end
